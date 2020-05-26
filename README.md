@@ -18,3 +18,7 @@ https://avinashkarn.shinyapps.io/correlation_shinyR_1/
 Click the link below for the compiled project files on github repository
 
 https://github.com/avinashkarn/CourseProject_dataProducts
+
+Click the link below for the presentation pitch of this app
+
+https://rpubs.com/avinashkarn/dataproducts_FinalProject
